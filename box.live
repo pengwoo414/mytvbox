@@ -43,9 +43,10 @@ CCTV17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/P
 
 
 📺 衛視頻道,#genre#
-凤凰香港「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+FHZX,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+FHZX,http://113.64.145.121:8081/hls/36/index.m3u8
+FHWSZW,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+FHWSZW,http://113.64.145.121:8081/hls/37/index.m3u8
 五星体育,http://116.233.174.144:10000/udp/239.45.3.210:5140
 
 
